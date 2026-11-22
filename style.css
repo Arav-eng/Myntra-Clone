@@ -396,3 +396,8 @@ footer p {
         font-size: 21px;
     }
 }
+@media (max-width: 380px) {
+    .product-container {
+        grid-template-columns: 1fr;
+    }
+}
