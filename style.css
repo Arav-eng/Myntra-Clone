@@ -205,3 +205,28 @@ body {
     gap: 25px;
     margin-top: 35px;
 }
+.product-card {
+    text-align: left;
+    background: white;
+    box-shadow: 0 4px 18px rgba(167, 139, 250, .13);
+    border-radius: 14px;
+    overflow: hidden;
+    transition: 0.3s;
+    border: 1px solid #F5E5F0;
+}
+
+.product-card:hover {
+    transform: translateY(-7px);
+    box-shadow: 0 10px 25px rgba(255, 92, 147, .2);
+}
+
+.product-image {
+    width: 100%;
+    height: 260px;
+    object-fit: cover;
+    display: block;
+}
+
+.product-info {
+    padding: 15px;
+}
