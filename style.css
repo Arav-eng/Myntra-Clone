@@ -183,3 +183,25 @@ body {
     color: white;
     transform: translateY(-2px);
 }
+.products-section {
+    padding: 45px 6%;
+    text-align: center;
+}
+
+.products-section h2 {
+    font-size: 27px;
+    letter-spacing: 2px;
+    color: #7C3F83;
+}
+
+.subtitle {
+    color: #927C99;
+    margin-top: 10px;
+}
+
+.product-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 25px;
+    margin-top: 35px;
+}
