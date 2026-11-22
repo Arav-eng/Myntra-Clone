@@ -370,4 +370,16 @@ footer p {
     .nav-actions {
         gap: 12px;
     }
+    .hero {
+    min-height: 330px;
+    padding: 30px 7%;
+}
+
+.hero-content h1 {
+    font-size: 40px;
+}
+
+.hero-content h3 {
+    font-size: 20px;
+}
 }
