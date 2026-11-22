@@ -333,3 +333,8 @@ footer p {
     opacity: 1;
     transform: translateY(0);
 }
+.no-products {
+    grid-column: 1 / -1;
+    padding: 40px;
+    color: #927C99;
+}
