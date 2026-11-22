@@ -338,3 +338,20 @@ footer p {
     padding: 40px;
     color: #927C99;
 }
+@media (max-width: 1000px) {
+    .navbar {
+        flex-wrap: wrap;
+        height: auto;
+        gap: 15px;
+        padding: 15px;
+    }
+
+    .search-box {
+        order: 4;
+        width: 100%;
+    }
+
+    .product-container {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
