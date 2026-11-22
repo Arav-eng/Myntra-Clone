@@ -53,7 +53,7 @@ The main objective of this project is to gain practical knowledge of frontend we
 
 📝 Created By
 
-**Arav Shukla*
+**Arav Shukla**
 Roll Number: **202510101110056**
 
 **Thank You!!** ❤️
