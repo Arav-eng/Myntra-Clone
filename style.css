@@ -371,15 +371,28 @@ footer p {
         gap: 12px;
     }
     .hero {
-    min-height: 330px;
-    padding: 30px 7%;
-}
+        min-height: 330px;
+        padding: 30px 7%;
+    }
 
-.hero-content h1 {
-    font-size: 40px;
-}
+    .hero-content h1 {
+        font-size: 40px;
+    }
 
-.hero-content h3 {
-    font-size: 20px;
-}
+    .hero-content h3 {
+        font-size: 20px;
+    }
+    .product-container {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 12px;
+    }
+
+    .product-image {
+        height: 190px;
+    }
+
+    .categories h2,
+    .products-section h2 {
+        font-size: 21px;
+    }
 }
