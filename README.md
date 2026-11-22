@@ -35,7 +35,7 @@ Myntra_Clone/
 │
 ├── index.html
 ├── style.css
-├── Myntra logo.jpeg
+├── Myntra logo.png.jpeg
 └── README.md
 
 🚀 How to Run the Project
